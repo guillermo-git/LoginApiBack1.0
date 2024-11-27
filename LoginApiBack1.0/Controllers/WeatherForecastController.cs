@@ -1,6 +1,7 @@
+using LoginApiBack1._0;
 using Microsoft.AspNetCore.Mvc;
 
-namespace LoginApiBack1._0.Controllers
+namespace SYSMEwebAPIback.Controllers
 {
     [ApiController]
     [Route("[controller]")]
