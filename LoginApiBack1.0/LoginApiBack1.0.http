@@ -1,0 +1,6 @@
+@LoginApiBack1._0_HostAddress = http://localhost:5014
+
+GET {{LoginApiBack1._0_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

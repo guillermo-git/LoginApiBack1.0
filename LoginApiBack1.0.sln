@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginApiBack1.0", "LoginApiBack1.0\LoginApiBack1.0.csproj", "{B5CBF868-31E8-4A5E-83EA-2B4C128DB5C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5CBF868-31E8-4A5E-83EA-2B4C128DB5C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CBF868-31E8-4A5E-83EA-2B4C128DB5C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CBF868-31E8-4A5E-83EA-2B4C128DB5C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CBF868-31E8-4A5E-83EA-2B4C128DB5C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E24186B5-5311-4293-BF91-B9015F8D21A2}
+	EndGlobalSection
+EndGlobal
